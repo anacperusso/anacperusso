@@ -51,3 +51,8 @@ Estou aberta a perguntas sobre meus projetos ou oportunidades de colaboração!
  <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacperusso&layout=compact&langs_count=7&theme=dracula" />
 </p>
+---
+
+### 💬 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-perusso-3b414735a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaclaraperusso12@gmail.com)
