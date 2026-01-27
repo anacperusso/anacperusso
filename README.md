@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 🌟 Sobre Mim
 - 🎓 Estudante de Engenharia de Software focada em sistemas robustos e escaláveis.
 🚀 Perfil Técnico
 - 🏗️ **Arquitetura & Qualidade:** Especialista em **Clean Architecture (Domain-Driven Focus)** e princípios SOLID.
@@ -46,11 +46,9 @@ Estou aberta a perguntas sobre meus projetos ou oportunidades de colaboração!
 - **LinkedIn:** [https://www.linkedin.com/in/ana-clara-perusso-3b414735a/]
 - **Email:** [anaclaraperusso12@gmail.com]
 
----
-
-### ⭐ Estatísticas do GitHub
-<p align="left">
+  ---
+ ![Estatísticas de Ana Clara](https://github-readme-stats.vercel.app/api?username=anacperusso&show_icons=true&theme=dracula&count_private=true)
+ <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacperusso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacperusso&layout=compact&langs_count=7&theme=dracula" />
 </p>
--->
