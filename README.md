@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
 
 > **Estudante de Engenharia de Software | Desenvolvedora Java & IA**
