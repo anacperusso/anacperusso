@@ -32,7 +32,7 @@
 ---
 
 ### 🔭 Projeto em Destaque
-**[Motor de Sinalização de Fluxo de Caixa (Financial Risk Engine)](https://github.com/anacperusso)**
+**[Motor de Sinalização de Fluxo de Caixa (Financial Risk Engine)](https://github.com/anacperusso/cashflow-simulator)**
 *Projeto de alta complexidade focado em sustentabilidade financeira e análise de dados.*
 - **Clean Architecture:** Isolamento total da Camada de Domínio e Casos de Uso.
 - **Simulação Determinística:** Algoritmo para projeção de caixa e identificação de insolvência.
