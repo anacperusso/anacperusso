@@ -41,10 +41,9 @@
 
 ---
 
-### 💬 Vamos conversar?
-Estou aberta a perguntas sobre meus projetos ou oportunidades de colaboração!
-- **LinkedIn:** [https://www.linkedin.com/in/ana-clara-perusso-3b414735a/]
-- **Email:** [anaclaraperusso12@gmail.com]
+### 💬 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-perusso-3b414735a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaclaraperusso12@gmail.com)
 
   ---
  ![Estatísticas de Ana Clara](https://github-readme-stats.vercel.app/api?username=anacperusso&show_icons=true&theme=dracula&count_private=true)
@@ -53,6 +52,3 @@ Estou aberta a perguntas sobre meus projetos ou oportunidades de colaboração!
 </p>
 ---
 
-### 💬 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-perusso-3b414735a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaclaraperusso12@gmail.com)
