@@ -1,44 +1,46 @@
 
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
 
-> **Estudante de Engenharia de Software | Desenvolvedora Java & IA**
-> Combinando uma base sólida em engenharia com uma visão analítica de negócios vinda de 4 anos de experiência no ecossistema digital. Especialista em Clean Architecture e POO para soluções financeiras complexas.
+> **Estudante de Engenharia de Software | Backend & IA**
+> Ana Clara Perusso
 
+Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia de Software focada em construir soluções que unem o rigor técnico da arquitetura de software à visão estratégica de negócios. Com uma base sólida em JavaScript e versionamento de código, hoje dedico meus estudos ao ecossistema Java e à aplicação de Inteligência Artificial no setor financeiro.
+#
 ---
 
 ### 🌟 Sobre Mim
-- 🎓 Estudante de Engenharia de Software focada em sistemas robustos e escaláveis.
-🚀 Perfil Técnico
-- 🏗️ **Arquitetura & Qualidade:** Especialista em **Clean Architecture (Domain-Driven Focus)** e princípios SOLID.
-- ⚙️ **Backend:** processo em Domínio em Java para desenvolvimento de ecossistemas.
-- 🤖 **IA & Dados:** Desenvolvimento de automações e análise determinística aplicadas ao setor financeiro.
+🎓 **Acadêmico:** Cursando **Engenharia de Software**, priorizando sistemas escaláveis e código limpo.
+
+🏗️ **Arquitetura:** Aplicando conceitos de **Clean Architecture** e **princípios SOLID** em projetos práticos.
+
+📈 **Experiência:** 4 anos de atuação no ecossistema digital, trazendo uma visão analítica para o **desenvolvimento de software**.
+
+🎯 **Foco Atual:** Especialização em **Java para backend e automações inteligentes** voltadas a dados financeiros.
   
 ---
 
-### 🛠️ Minhas Skills
+### 🛠️ Tecnologias e Ferramentas ( base sólida em javaScript, Git )
 
 **Linguagens & Backend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 **Engenharia & DevOps**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Critical-success)
 
 ---
 
 ### 🔭 Projeto em Destaque
-**[Motor de Sinalização de Fluxo de Caixa (Financial Risk Engine)](https://github.com/anacperusso/cashflow-simulator)**
-*Projeto de alta complexidade focado em sustentabilidade financeira e análise de dados.*
+**Este projeto é o meu laboratório principal para aplicar engenharia de software de alta qualidade. Trata-se de um Motor de Sinalização de Fluxo de Caixa focado em análise de risco.**
 - **Clean Architecture:** Isolamento total da Camada de Domínio e Casos de Uso.
 - **Simulação Determinística:** Algoritmo para projeção de caixa e identificação de insolvência.
 - **Classificação de Risco:** Sistema dinâmico de status (SAFE, WARNING, CRITICAL).
 - **Qualidade:** Foco rigoroso em SRP (Single Responsibility Principle) e baixo acoplamento.
-
+  
+   👉 [Confira o repositório aqui](https://github.com/anacperusso/cashflow-simulator)
 ---
 
 ### 💬 Vamos nos conectar?
