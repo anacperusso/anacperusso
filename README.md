@@ -2,7 +2,6 @@
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
 
 > **Estudante de Engenharia de Software | Backend & IA**
-> Ana Clara Perusso
 
 Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia de Software focada em construir soluções que unem o rigor técnico da arquitetura de software à visão estratégica de negócios. Com uma base sólida em JavaScript e versionamento de código, hoje dedico meus estudos ao ecossistema Java e à aplicação de Inteligência Artificial no setor financeiro.
 #
