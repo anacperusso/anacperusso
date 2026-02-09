@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" alt="Minha Animação" width="400px" />
+</p>
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
 
 > **Estudante de Engenharia de Software | Backend & IA**
