@@ -1,7 +1,7 @@
+## 💜 Olá, meu nome é **Ana Clara Perusso**!
 <p align="center">
   <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" alt="Minha Animação" width="400px" />
-</p>
-## 💜 Olá, meu nome é **Ana Clara Perusso**!
+
 
 > **Estudante de Engenharia de Software | Backend & IA**
 
@@ -34,15 +34,6 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia de Software focada em co
 
 ---
 
-### 🔭 Projeto em Destaque
-**Este projeto é o meu laboratório principal para aplicar engenharia de software de alta qualidade. Trata-se de um Motor de Sinalização de Fluxo de Caixa focado em análise de risco.**
-- **Clean Architecture:** Isolamento total da Camada de Domínio e Casos de Uso.
-- **Simulação Determinística:** Algoritmo para projeção de caixa e identificação de insolvência.
-- **Classificação de Risco:** Sistema dinâmico de status (SAFE, WARNING, CRITICAL).
-- **Qualidade:** Foco rigoroso em SRP (Single Responsibility Principle) e baixo acoplamento.
-  
-   👉 [Confira o repositório aqui](https://github.com/anacperusso/cashflow-simulator)
----
 
 ### 💬 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-perusso-3b414735a/)
