@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=100&section=header" width="100%" />
+</div>
+
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
 <p align="center">
   <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" alt="Minha Animação" width="400px" />
@@ -40,11 +44,7 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia de Software focada em co
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaclaraperusso12@gmail.com)
 
 ![Snake animation](https://github.com/anacperusso/anacperusso/blob/output/github-contribution-grid-snake.svg)
-
   ---
- ![Estatísticas de Ana Clara](https://github-readme-stats.vercel.app/api?username=anacperusso&show_icons=true&theme=dracula&count_private=true)
- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacperusso&layout=compact&langs_count=7&theme=dracula" />
-</p>
----
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=100&section=footer" width="100%" />
+</div>
