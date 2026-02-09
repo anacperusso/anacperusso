@@ -46,6 +46,8 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia de Software focada em co
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-perusso-3b414735a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaclaraperusso12@gmail.com)
 
+![Snake animation](https://github.com/anacperusso/anacperusso/blob/output/github-contribution-grid-snake.svg)
+
   ---
  ![Estatísticas de Ana Clara](https://github-readme-stats.vercel.app/api?username=anacperusso&show_icons=true&theme=dracula&count_private=true)
  <p align="center">
