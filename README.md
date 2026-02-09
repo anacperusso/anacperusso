@@ -5,21 +5,15 @@
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
 
 <p align="center">
-  <table align="center" cellspacing="0" cellpadding="0">
+  <table align="center" style="border: 4px outset #bf94ff; border-radius: 35px; background: #282a36;">
     <tr>
-      <td bgcolor="#bf94ff" style="border-radius: 40px; padding: 2px;"> 
-        <table cellspacing="0" cellpadding="0">
+      <td style="padding: 15px;">
+        <table align="center" style="border: 2px inset #bf94ff; border-radius: 20px;">
           <tr>
-            <td bgcolor="#1a1b27" style="border-radius: 38px; padding: 10px;">
-              <table cellspacing="0" cellpadding="0">
-                <tr>
-                  <td bgcolor="#bf94ff" style="border-radius: 25px; padding: 4px;">
-                    <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" 
-                         width="420px" 
-                         style="display: block; border-radius: 22px;" />
-                  </td>
-                </tr>
-              </table>
+            <td bgcolor="#bf94ff" style="padding: 8px; border-radius: 15px;">
+              <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" 
+                   width="400px" 
+                   style="display: block; border-radius: 10px;" />
             </td>
           </tr>
         </table>
