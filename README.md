@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bf94ff&height=120&section=header&text=Bem-vinda(o)!&fontSize=50" width="100%" />
 </div>
 
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
+
+<br>
 <p align="center">
-  <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" alt="Minha Animação" width="400px" />
+  <table align="center">
+    <tr>
+      <td bgcolor="#bf94ff" style="padding: 15px; border-radius: 30px;">
+        <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" width="400px" style="display: block; border-radius: 15px;" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 > **Estudante de Engenharia de Software | Backend & IA**
@@ -48,3 +57,4 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia de Software focada em co
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=100&section=footer" width="100%" />
 </div>
+
