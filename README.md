@@ -5,21 +5,7 @@
 ## 💜 Olá, meu nome é **Ana Clara Perusso**!
 
 <p align="center">
-  <table align="center" style="border: 4px outset #bf94ff; border-radius: 35px; background: #282a36;">
-    <tr>
-      <td style="padding: 15px;">
-        <table align="center" style="border: 2px inset #bf94ff; border-radius: 20px;">
-          <tr>
-            <td bgcolor="#bf94ff" style="padding: 8px; border-radius: 15px;">
-              <img src="https://github.com/anacperusso/anacperusso/raw/main/IMG_1618.GIF" 
-                   width="400px" 
-                   style="display: block; border-radius: 10px;" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/anacperusso/anacperusso/raw/main/unnamed.gif" width="400px" />
 </p>
 
 
