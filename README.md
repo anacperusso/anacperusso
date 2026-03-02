@@ -33,7 +33,7 @@ Bem-vindo(a) ao meu perfil! Sou estudante de Engenharia de Software focada em co
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas ( base sólida em Git )
+### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Backend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
